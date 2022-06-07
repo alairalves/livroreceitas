@@ -5,3 +5,4 @@
 olá, bem vindo ao livro de receitas :wave:
 
 - estrogonofe de frango
+- pavê
